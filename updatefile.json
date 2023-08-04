@@ -1,5 +1,32 @@
 {
-"Version" : "3.0",
-"Url" : "https://github.com/fnet-vpn/app/raw/main/file/filev007.zip",
-  "Message": " Dark Side VPN 🌚 📢เพิ่มအသစ် 5 IP AA-TRUE-DTAC-READY-1S-01~05 CC-AIS-PLAY-READY-1S-01~05 📢ติดปัญหาอะไรสอบถามได้ตลอด กลุ่มเฟสบุ๊ค หรือทางกลุ่มไลน์โอเพ่นแชท💃🕴️ ✅กลุ่ม เฟสบุ๊ค 👉 เน็ตฟรี Dark Side VPN ✅ไลน์โอเพ่นเชท 👉 BEGIN VPN 🎤 แอปพลิเคชัน ระยะเวลา 12 ชั่วโมง เพิ่มพิเศษได้ 72 ชั่วโมงต่อ 1 วัน ⚠️ระบบจะรีบูต 03.30 ของสุดท้าย⚠️ "
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"2.0",
+//link for server update
+"title":"Config version - 2.0",
+"Url":"https://github.com/fnet-vpn/app/raw/main/file/filev007.zip" ,
+"Changelog":"
+Latest update 18-July-2023
+ 
+New TH ReadyIDC VIP Server
+ 
+VIP | 1Month - 50Baht
+🇹🇭TH-Bangmod-VIP Server
+🇹🇭ReadyIDC Free Server added🎁
+DTAC No Pro
+TRUE No Pro
+Update function to page load
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
 }
