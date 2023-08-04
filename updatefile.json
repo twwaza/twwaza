@@ -4,7 +4,7 @@
 //link for server update
 "title":"Config version - 2.0",
 "Url":"https://github.com/fnet-vpn/app/raw/main/file/filev007.zip" ,
-"Changelog":"
+"message":"
 Latest update 18-July-2023
  
 New TH ReadyIDC VIP Server
@@ -15,18 +15,4 @@ VIP | 1Month - 50Baht
 DTAC No Pro
 TRUE No Pro
 Update function to page load
-",
- 
- 
- 
- 
- 
- 
-// don't mess with the bottom
-"latestVersion": "1.0.0",
-"latestVersionCode": "1",
-"url": "",
- "releaseNotes": [
- "-Demo"
-  ]
-}
+",}
