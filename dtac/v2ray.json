@@ -1,33 +1,11 @@
 {
-"version": 13,
-"message": "What's new \nAdded new server \nAdded new promo ",
+ "version": 15, "message": "What's new \nAdded new server Updated (7) \n💌 🏋️‍♀️🏋️‍♀️အပ်ဒိပ်လုပ်ရန် OK နိုပ်ပေးပါ🏋️‍♀️🏋️‍♀️💌 ", "files": [ 
+{ "config": "arnBD9eOdSq4adekXRMrAKAQEafHdYMa011FJsB6m4Deh6mAVVC+MFUZ0o7hQUI79R30LF50EgDziY7m3qa+bCvVE6kUHigi1iMYsjHfuIZ+FKCZrKYFNKMNefXap/Lcqq0xzQcXJyIN0HfUtxBuYW9Am7lPCvICjd5uj6eaXdTZ6TPuqHZiUGrGtxU/saKXcLQ9XxG3lnlvBvorfhhdjlRcrMlcqwhVwL9joNfH9ZcVNQdVsTqhnHboN0Ii8fzmhwB98EKG0Xi0WMtUem5nbbJClaCT4yVRzIGB4ISIPViwq9aYGnCBwYf0SFdzGVPNDnf43TDtEnjQg0/Fbu48Ve7yGnFZuGuZOZtdCsTCoTaaRhJ5YX1NANAXF3VCz5f3YxcT95rjTl8zmhkazisF49lDAPtNf1tHXnmNJQB2BekZ+vx3m9Y/yc10lYQ=" },
+{ "config": "haR48POR13XLsiQBw+KSOAEzLSYgc+T4A/TEs4igtlBhnVeGEy2z7jVTDWbhCzagvpV8H6S4DsIr/e3ZDVFfEg42waBOMjau10OFZn2QurgFlR+5iTVa9oC6nuzUFgvwXIrGOdCU+cOxQ1qgSpiURl6TtLTVF6s25jcVJ18j0rN55sASRzgeOnwydGwi1U1eijkNxyC/d4JLVZVz3P2QtIeLCjZc4q8jx8AGH230osetp9qRG+pHHmE4lPlx2K3fuLFu/alvIqGCteu+7xjo5OgZipdPdyc/GR1zPWh1B9tKelPFiN/s6K8JHYd4AkQd3wy36cPoBagTHNv382FLpv//vjfo25Fhv8gv401Gm71ItKPLJ+dNwVwUX3pvJ0SrAPzG9/vNBcb5CLx0dDWtyyunFL9gvy49opL8x5VIdpHcxAgqLD7uUxJFTTs=" }, 
+{ "config": "rV6ePmC29sYr1b9ispeZDOx+NXj2gOXJDez3VTxMCxEJ0EKLfUlYebzyT7cCW4O9lioppZIzXpU2jKKkHrDCZibu7p73p4wnnO5fbOQozSjJa1dAWryJzQ5PyvbVUei9b89jXA8rZrxLJFYxvG3E1cNA3VZhx20hYo+YBzkI4yWdI7DNxC+YSOSAGQY7gGGuxglbCfWAY79dH0TMe6zkgBXWnMYYDc1uFF6/TihfrOidiIGp/Z4hkrVrZBeX6QGdYceuRd8aJNGwdwNWEwmJKlxmHE50rCs6jFojEgd+5Tr3ueeP+wIH6u2OCDF//psRGQ42KqddgDsx8kGVr1sg43xXkSVyOezRwnYqUFNCV2ptP29zbo+wYzlEWDRrta6X6PSl6hP0JtG98wCi7ovbs2Wn2fJCN5JimTZhZDA5P3fyOD8DOgqjg6mRAvAJ+LJ3" }, 
+{ "config": "pKhk4tMyOHSViUBCV2FiKG7jMGdq/VrFZoRcc3VvJ0SKwpgzCARfIDoYqwZlL7C32pOuq5J87us0VBknaL92FqBUTmtcuq1Wnb1X4YSGoKnQDpwMfBrJrt5gMUmkTnrRFqZMdERe0KUcmMTsEWOIHyAjuoqpAUkBJlDOmGMzEx8133HkpzlbTF15WOxoFuVPVvlttrQKkMEm0JiIrzZzAktWXpAuRqTzJbZ0YB7Qg7sh9RT78cBwY2DLI2QKZ3J1rE7L/l0gtQiS3c8vfE7OUq32L85HJ5rrs7XurBfudQQixqZQ8Jsya6MsWTfUJNt+6R+SwYcj10TVp8iw0fCX3C33SlUiBsRAl39q5XGttRi0iNtTqE7uAmhdIeJeZEpWMnlLtTUp+/Bh9uGVi/7q7ObgVDxPoQWIHgJa6C+/c3c+jWUC" } ], 
 
-"files": [
-
-{
-         
-         "config": "WKTBoK2rqoWbVQIiiZ8+IVxq86D373DnXDt3ZEpJT+srsMzFBzS/fI+mg54CH4idOXZEerFdNlj9/+6AQlDDr5nnqgXE9cjs6d6yQpT9IYTC5UXvDqe9F1g/oH86pI5NaPeGMQKwSEgdWkHtIr3WcFWvACSA28rQH5V1qw6gqS0IYBzC2OyZt7a6joZWeLBnHIn2F7NfaiYo8IOhE9lPV8GNFN0gn7OlKjLzsw/R8saEGvjkE+r6LKjNIutVk0rN9lqIcl/EKS/2jGwlaVaPYsEK02v1ZswlmKWTnZez+rPD/wNDwOjPoqMKMWkN7riZ+DWI1vNvBkLD+hrr+9MX3q4K/aJyAPZKRilcoSQprcf7631iTAszvci1HRCDnyFEN+imNzdT8omKzvxcSIm+0+4Dw2lZNctQ9HHEL4MmIafgOqojIX6jGj2fgfInvmfJh103sfM1vSJ7Teh3jK5y3w=="
-     
-},
-{
-        
-         "config": "WKTBoK2rqoWbVQIiiZ8+IVxq86D373DnXDt3ZEpJT+srsMzFBzS/fI+mg54CH4idOXZEerFdNlj9/+6AQlDDr5nnqgXE9cjs6d6yQpT9IYTC5UXvDqe9F1g/oH86pI5NaPeGMQKwSEgdWkHtIr3WcFWvACSA28rQH5V1qw6gqS0IYBzC2OyZt7a6joZWeLBnHIn2F7NfaiYo8IOhE9lPV8GNFN0gn7OlKjLzsw/R8saEGvjkE+r6LKjNIutVk0rN9lqIcl/EKS/2jGwlaVaPYsEK02v1ZswlmKWTnZez+rPD/wNDwOjPoqMKMWkN7riZ+DWI1vNvBkLD+hrr+9MX3q4K/aJyAPZKRilcoSQprcf7631iTAszvci1HRCDnyFEN+imNzdT8omKzvxcSIm+0+4Dw2lZNctQ9HHEL4MmIafgOqojIX6jGj2fgfInvmfJh103sfM1vSJ7Teh3jK5y3w=="
-      },
-{
-         
-         "config": "WKTBoK2rqoWbVQIiiZ8+IVxq86D373DnXDt3ZEpJT+srsMzFBzS/fI+mg54CH4idOXZEerFdNlj9/+6AQlDDr5nnqgXE9cjs6d6yQpT9IYTC5UXvDqe9F1g/oH86pI5NaPeGMQKwSEgdWkHtIr3WcFWvACSA28rQH5V1qw6gqS0IYBzC2OyZt7a6joZWeLBnHIn2F7NfaiYo8IOhE9lPV8GNFN0gn7OlKjLzsw/R8saEGvjkE+r6LKjNIutVk0rN9lqIcl/EKS/2jGwlaVaPYsEK02v1ZswlmKWTnZez+rPD/wNDwOjPoqMKMWkN7riZ+DWI1vNvBkLD+hrr+9MX3q4K/aJyAPZKRilcoSQprcf7631iTAszvci1HRCDnyFEN+imNzdT8omKzvxcSIm+0+4Dw2lZNctQ9HHEL4MmIafgOqojIX6jGj2fgfInvmfJh103sfM1vSJ7Teh3jK5y3w=="
-
-}
-
-
-   ],
-
-
-
-"dtac": "📢Dtac အင်တာနက်ဖရီး သုံးရန် လမ်းညွှန်       \n \n*104*777# 30ရက် 53ဘတ် ကုန်ပါတယ်     \n*117*30# 30ရက် 20ဘတ် ကုန်ပါတယ်     \nနံပါတ် နှစ်ခုလုံး စမတ်မှ ရမယ်နော်      \n     \nစမတ်ပြီးပါက ဖိုင်နေရာကို DtacLINE12 ဖိုင်လို့ ရေးထားတဲ့ဖိုင်ကို ရွေးပြီး ချိတ်သုံးလို့ ရပါတယ်ခင်ဗျာ ",
-"true": "True က ဘာမှ စမတ်စရာမလိုဘူးေနာ် တန်းချိတ်ရုံပဲ",
-"ais": ""
-
-
-
-}
+"dtac": "📢Dtac က ဘာမှ စမတ်စရာမလိုဘူးနော် တန်းချိတ်ရုံပဲ💯",
+"true": "📢True က ဘာမှ စမတ်စရာမလိုဘူးနော် တန်းချိတ်ရုံပဲ💯",
+ "ais": "📢Ais အင်တာနက်ဖရီး သုံးရန် လမ်းညွှန် \n*777*885# 30ရက် 59ဘတ် \n*777*7067# 30ရက် 31ဘတ်\nနံပါတ် နှစ်ခုလုံး စမတ်မှ ရပါမယ် Ais64k ဖိုင်လို့ ရေးထားတဲ့ဖိုင်ကို ရွေးပြီး ချိတ်သုံးလို့ ရပါတယ်ခင်ဗျာ"
+ }
