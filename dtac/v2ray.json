@@ -1,12 +1,15 @@
 {
-"version": 1,
-"message": "Update function to page load\nDTAC 📶SIM // NoPro",
+"version": 2,
+"message": "Update function to page load\nDTAC 📶SIM // NoPro\nTRUE 📶SIM // NoPro",
 
 "files": [
 
 {
          
          "config": "lw0XsslafnxE5LB8AXmnarbX1rrPkzV2lm5tAJFFfnTcJUcNNbBZwD6QAeGAigo82R2XiNacX/t4nCfrM/CYGcllixUgYd819B3d+/7ddtcaVDI7f1yw+5bW/YwqI5DympJv2ufalCw9XQ+GEwttfXXBrcGx1ACPPsHGv8qDLYFuMW81Y5xdfXsHNLRe5B14ancZB+zDn3HMeQj2RApbdrA8ryzfMxI9NO80UF545u5q2ZyZgP/zrHRIZV4gTi1yaiekkgy1iKlomM4DadqC0/GpTQ1g0jHLf7F2MCqUHFm486emZoe5KUWVOwtNJ47v7MIEmbbHO/pvUonMUalAhAFIJgTJJc+heG9402i3xCz5hv4i+Sg9Dc030bXgu87ZGOxs7Y+aVMF93bR80usw/7QnIGpy3FZI1KI3GU8CjbTangScx261H/4O1nc="
+},
+{
+"config": "Fhz+bQ4A/LQSfwmKUDGX6C3WNI8Uth6vV2GOfm6++e3f/WG+xI3iwot92Ws9TC+DtaTGUm4BzHZaS8v9gARlWy+1moDAIBUoIuSDH6wVAQ39PFphAEeS/zngVPuK74NBBdhKE2sz71CQrb5lfHHqyEQ30TzbY67YRBDYwnEdB3jag2Tg3hzJPwqe+f2XScRe/3PSX/hqfegxxZtcwwsiKsi7eM1WYOK6yPAwtukRcfT/Am081LOm/lIr/ATqhCdS6VTUZLzY9GstOniVemlxfPbs+q6k8JhIGSDQSzvbQjStIRMFvYo5WqyBrCLYh0oLPHATOStzk6WcmfuqWeFQLhTbMeS+C7L22z5TIIWDH1ujS5P10r8NytyWfi+q4CfDTS5JGCsPn7rbwSVjFrJKjlZdkwoap14MYyPIy4TkfwnlDiZXwJIJcFwvdo5Mm59IOzL0VA=="
 },
 {
         
@@ -18,8 +21,8 @@
 
 
 
-"dtac": "📢သင့် DTAC 📶SIM တွင် ဘာပရိုမိုးရှင်းမှ ရှိရန်မလိုအပ်ပါ",
-"true": "မရနိုင်သေးပါ",
+"dtac": "DTAC 📶SIM တွင် ဘာပရိုမိုးရှင်းမှ ရှိရန်မလိုအပ်ပါ",
+"true": "TRUE 📶SIM တွင် ဘာပရိုမိုးရှင်းမှ ရှိရန်မလိုအပ်ပါ",
 "ais": "မရနိုင်သေးပါ"
 
 
