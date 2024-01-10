@@ -1,6 +1,6 @@
 {
-"version": 2,
-"message": "Update function to page load\nDTAC 📶SIM // NoPro\nTRUE 📶SIM // NoPro",
+"version": 3,
+"message": "Update function to page load\nDTAC 📶SIM // NoPro\nTRUE 📶SIM // NoPro\nAIS 📶SIM // NoPro",
 
 "files": [
 
@@ -27,7 +27,7 @@
 
 "dtac": "DTAC 📶SIM တွင် ဘာပရိုမိုးရှင်းမှ ရှိရန်မလိုအပ်ပါ",
 "true": "TRUE 📶SIM တွင် ဘာပရိုမိုးရှင်းမှ ရှိရန်မလိုအပ်ပါ",
-"ais": "မရနိုင်သေးပါ"
+"ais": "AIS 📶SIM တွင် ဘာပရိုမိုးရှင်းမှ ရှိရန်မလိုအပ်ပါ"
 
 
 
